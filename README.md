@@ -27,5 +27,22 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference]
 
 
+![Login Form](https://github.com/lulu123hh/Angular/blob/70e55fc37d9f2eaf444887067bae99a6e292c66c/ima1.png) 
+![Login Form](https://github.com/lulu123hh/Angular/blob/70e55fc37d9f2eaf444887067bae99a6e292c66c/ima2.png)
+![Login Form](https://github.com/lulu123hh/Angular/blob/70e55fc37d9f2eaf444887067bae99a6e292c66c/ima3.png)
+![Login Form](https://github.com/lulu123hh/Angular/blob/70e55fc37d9f2eaf444887067bae99a6e292c66c/ima4.png)
+![Login Form](https://github.com/lulu123hh/Angular/blob/70e55fc37d9f2eaf444887067bae99a6e292c66c/ima5.png)
+![Login Form](https://github.com/lulu123hh/Angular/blob/70e55fc37d9f2eaf444887067bae99a6e292c66c/ima6.png)
+![Login Form](https://github.com/lulu123hh/Angular/blob/70e55fc37d9f2eaf444887067bae99a6e292c66c/ima7.png)
+![Login Form](https://github.com/lulu123hh/Angular/blob/70e55fc37d9f2eaf444887067bae99a6e292c66c/ima8.png)
+![Login Form](https://github.com/lulu123hh/Angular/blob/70e55fc37d9f2eaf444887067bae99a6e292c66c/ima9.png)
+![Login Form](https://github.com/lulu123hh/Angular/blob/70e55fc37d9f2eaf444887067bae99a6e292c66c/ima10.png)
+![Login Form](https://github.com/lulu123hh/Angular/blob/70e55fc37d9f2eaf444887067bae99a6e292c66c/ima11.png)
+![Login Form](https://github.com/lulu123hh/Angular/blob/70e55fc37d9f2eaf444887067bae99a6e292c66c/ima12.png)
+![Login Form](https://github.com/lulu123hh/Angular/blob/70e55fc37d9f2eaf444887067bae99a6e292c66c/ima13.png)
+![Login Form](https://github.com/lulu123hh/Angular/blob/70e55fc37d9f2eaf444887067bae99a6e292c66c/ima14.png)
+![Login Form](https://github.com/lulu123hh/Angular/blob/70e55fc37d9f2eaf444887067bae99a6e292c66c/ima15.png) 
 
-hola
+
+
+
