@@ -64,7 +64,7 @@
 ## 31
 ![Login Form](https://github.com/lulu123hh/Angular/blob/47cdeb6c66899d198559f97c6f65aba126c3fb36/ima31.png) 
 ## 32
-![Login Form]() 
+![Login Form](https://github.com/lulu123hh/Angular/blob/efba425cdce58457a4ad62cda0e9674be1bcc262/ima32.png) 
 ## 33
 ![Login Form]() 
 ## 34
