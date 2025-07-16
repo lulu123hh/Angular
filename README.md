@@ -71,12 +71,6 @@
 ![Login Form](https://github.com/lulu123hh/Angular/blob/158eafe60b4d5ada9815b9b597d81130de81ec4e/ima34.png) 
 ## 35
 ![Login Form](https://github.com/lulu123hh/Angular/blob/0073d7e2bb8ca4fb12ef12a4e6b37c31e0e1733d/ima35.png) 
-## 36 
-![Captura del Home](https://github.com/lulu123hh/Portafolio/blob/56af90b01f72d7b287609ba0da2650f7c9bc5ea3/captura1.png)
-## 37
-![Login Form](https://github.com/lulu123hh/Angular/blob/0073d7e2bb8ca4fb12ef12a4e6b37c31e0e1733d/ima35.png) 
-
-
 
 
 
