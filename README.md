@@ -2,7 +2,7 @@
 - Este proyecto fue generado utilizando [Angular CLI]() versión 20.1.0.
 - Este proyecto es una demostración de varios componentes de Angular Material
 ## 1
-![Login Form](https://github.com/lulu123hh/Angular/blob/ab1ada561ff4e3a3121ca539b782d0fbf3435f28/ima3.png) 
+![Login Form]() 
 ## 2
 ![Login Form](https://github.com/lulu123hh/Angular/blob/70e55fc37d9f2eaf444887067bae99a6e292c66c/ima2.png)
  ## 3
