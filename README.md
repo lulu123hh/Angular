@@ -1,6 +1,11 @@
-# PracticaWeb
+- COMPONENTES ANGULAR
 - Este proyecto fue generado utilizando [Angular CLI]() versión 20.1.0.
 - Este proyecto es una demostración de varios componentes de Angular Material
+
+Hernández Hernández Maria de Lourdes
+
+## 📚 Lista de Ejercicios
+
 ## 1
 ![Login Form](https://github.com/lulu123hh/Angular/blob/main/ima1.png) 
 ## 2
